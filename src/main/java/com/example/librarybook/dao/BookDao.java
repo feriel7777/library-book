@@ -1,6 +1,6 @@
 package com.example.librarybook.dao;
 
-import com.example.librarybook.model.Book;
+import com.example.librarybook.service.model.Book;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

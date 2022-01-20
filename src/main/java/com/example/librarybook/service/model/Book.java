@@ -1,4 +1,4 @@
-package com.example.librarybook.model;
+package com.example.librarybook.service.model;
 
 import org.hibernate.validator.constraints.Length;
 

@@ -1,7 +1,7 @@
 package com.example.librarybook.controller;
 
 import com.example.librarybook.exception.CopyNotFoundException;
-import com.example.librarybook.model.Copy;
+import com.example.librarybook.service.model.Copy;
 import com.example.librarybook.service.CopyService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,6 +1,6 @@
 package com.example.librarybook.dao;
 
-import com.example.librarybook.model.Copy;
+import com.example.librarybook.service.model.Copy;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

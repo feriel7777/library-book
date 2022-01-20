@@ -1,7 +1,7 @@
 package com.example.librarybook.controller;
 
 import com.example.librarybook.exception.BookNotFoundException;
-import com.example.librarybook.model.Book;
+import com.example.librarybook.service.model.Book;
 import com.example.librarybook.service.BookService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
